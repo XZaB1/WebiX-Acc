@@ -18,7 +18,7 @@
 
 - Компонентная структура на основе Webix UI
 
-## 🛠 Стек
+## Стек
 
 **Webix:** — JavaScript UI-библиотека
 **JavaScript:** HTML / CSS
